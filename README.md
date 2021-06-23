@@ -4,6 +4,7 @@ There are a lot of people who want to spend their time but get lost on the inter
 - A hobby page that allows people to make use of their time and get a new job (Hobby Street)
 - "What am I going to watch?" Instead of getting lost on the internet by asking, an online series and movie library that brings together the most outstanding series and movies (Digital Rejoicing)
 - An online education guide for beginners for every person who wants to add something to themselves and improve themselves. (Learnbox)
+
 First of all, we researched what content should be on these 3 pages and which software languages we should use while preparing the project.
 
 Visual Studio Code: Visual Studio Code was used for HTML and CSS codes. In the HTML part, the articles on the web page were added, and in the CSS part, a design appealing to the HTML files was given.
